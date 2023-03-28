@@ -1,0 +1,14 @@
+__pycache__
+.vscode
+.ipynb_checkpoints
+
+# Output files
+nohup.out
+*.log
+
+# Large folders => Push zipped folder
+result/
+
+# MacOS
+.DS_Store
+__MACOSX

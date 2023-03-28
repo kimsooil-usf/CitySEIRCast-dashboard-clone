@@ -1,0 +1,21 @@
+name: dashboard
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - dash
+  - dash-core-components
+  - dash-html-components
+  - dash-renderer
+  - dash-table
+  - plotly
+  - pandas
+  - numpy
+  - geopandas
+  - flask-caching
+  - matplotlib
+  - python-dateutil
+  - openpyxl
+  - pyarrow
+  - pip:
+    - redis
